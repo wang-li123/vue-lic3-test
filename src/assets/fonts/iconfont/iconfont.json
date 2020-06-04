@@ -1,0 +1,23 @@
+{
+  "id": "1851563",
+  "name": "vueVantModule",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "工厂类图标应用",
+  "glyphs": [
+    {
+      "icon_id": "5233437",
+      "name": "工厂",
+      "font_class": "icon-",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "6306114",
+      "name": "工厂",
+      "font_class": "gongchang",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
